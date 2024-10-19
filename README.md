@@ -1,4 +1,4 @@
-# do I want to learn X?
+# Code Me Maybe?
 
 Multiple code samples of popular programming languages, documented in increasing complexity to help you decide on whether or not you are interested in diving deeper into the language. 
 
@@ -33,7 +33,8 @@ You’ll find basic programs — nothing too fancy, just enough to whet your app
 1. **Go** – Perfect for when you want to pretend you’re too cool for traditional languages. The language that’s so easy to deploy, even your grandma could use it. Unless you try to convince her to use interfaces, and then she'll just nod politely and ask if you’ve tried a “real” programming language. Built specifically for people who live on the "just enough" philosophy.
 
 
-Let me know if you'd like to tweak or add anything!
+> [!TIP]
+> Let me know if you'd like to tweak or add any more languages!
 
 # Contributing
 
